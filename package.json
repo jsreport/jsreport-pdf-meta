@@ -1,6 +1,6 @@
 {
   "name": "jsreport-pdf-meta",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "jsreport extension adding used to fill pdf meta information like Producer",
   "main": "index.js",
   "keywords": [
