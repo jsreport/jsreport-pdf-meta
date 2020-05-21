@@ -1,3 +1,5 @@
+> ⚠️ This extension is deprecated because it is part of the [jsreport-pdf-utils](https://jsreport.net/learn/pdf-utils) now.
+
 # jsreport-pdf-meta
 
 [![NPM Version](http://img.shields.io/npm/v/jsreport-pdf-meta.svg?style=flat-square)](https://npmjs.com/package/jsreport-pdf-meta)
